@@ -4,7 +4,7 @@ import { cubes } from './cube';
 describe('Cube filter', () => {
   it('cubes a sequence', () => {
     const input = [1, 3, 5, 7, 9, 999];
-    const expected = [2, 27, 125, 343, 729, 997002999];//1st should be 1
+    const expected = [1, 27, 125, 343, 729, 997002999];//1st should be 1
     expect(cubes(input)).toEqual(expected);
   });
 });
