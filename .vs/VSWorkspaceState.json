@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.svelte-kit",
+    "\\src",
+    "\\src\\lib",
+    "\\src\\lib\\filters",
+    "\\src\\routes"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
