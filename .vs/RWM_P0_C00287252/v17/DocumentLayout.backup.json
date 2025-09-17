@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\New folder\\RWM_P0_C00287252\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\collatz.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\collatz.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\combined\\combined.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\combined\\combined.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\combined\\combined.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\combined\\combined.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\collatz.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\collatz.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\cube.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\cube.test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\collatz.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\collatz.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\routes\\\u002Bpage.svelte||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\\u002Bpage.svelte||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\routes\\combined\\\u002Bpage.svelte||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\combined\\\u002Bpage.svelte||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\cube.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\filters\\cube.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\scripts\\check-peer-export.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scripts\\check-peer-export.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\scripts\\emit-results.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scripts\\emit-results.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\RWM_P0_C00287252\\src\\routes\\\u002Bpage.svelte||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\\u002Bpage.svelte||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "combined.ts",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\combined\\combined.ts",
+              "RelativeDocumentMoniker": "src\\lib\\filters\\combined\\combined.ts",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\combined\\combined.ts",
+              "RelativeToolTip": "src\\lib\\filters\\combined\\combined.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-17T13:48:37.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "check-peer-export.mjs",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\scripts\\check-peer-export.mjs",
+              "RelativeDocumentMoniker": "src\\scripts\\check-peer-export.mjs",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\scripts\\check-peer-export.mjs",
+              "RelativeToolTip": "src\\scripts\\check-peer-export.mjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-15T11:51:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "combined.test.ts",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\combined\\combined.test.ts",
+              "RelativeDocumentMoniker": "src\\lib\\filters\\combined\\combined.test.ts",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\combined\\combined.test.ts",
+              "RelativeToolTip": "src\\lib\\filters\\combined\\combined.test.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-15T11:47:56.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "collatz.test.ts",
               "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\collatz.test.ts",
               "RelativeDocumentMoniker": "src\\lib\\filters\\collatz.test.ts",
@@ -59,77 +110,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "cube.test.ts",
-              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\cube.test.ts",
-              "RelativeDocumentMoniker": "src\\lib\\filters\\cube.test.ts",
-              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\cube.test.ts",
-              "RelativeToolTip": "src\\lib\\filters\\cube.test.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-15T09:49:41.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "collatz.ts",
               "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\collatz.ts",
               "RelativeDocumentMoniker": "src\\lib\\filters\\collatz.ts",
               "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\collatz.ts",
               "RelativeToolTip": "src\\lib\\filters\\collatz.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-09-15T10:27:43.457Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "cube.ts",
-              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\cube.ts",
-              "RelativeDocumentMoniker": "src\\lib\\filters\\cube.ts",
-              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\lib\\filters\\cube.ts",
-              "RelativeToolTip": "src\\lib\\filters\\cube.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-15T09:42:38.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T09:59:51.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "\u002Bpage.svelte",
-              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\routes\\\u002Bpage.svelte",
-              "RelativeDocumentMoniker": "src\\routes\\\u002Bpage.svelte",
-              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\routes\\\u002Bpage.svelte",
-              "RelativeToolTip": "src\\routes\\\u002Bpage.svelte",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-15T09:56:54.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T09:50:20.687Z"
             },
             {
               "$type": "Document",
@@ -141,7 +131,73 @@
               "RelativeToolTip": "src\\lib\\filters\\index.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-15T09:42:38.946Z"
+              "WhenOpened": "2025-09-15T09:42:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T09:50:20.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u002Bpage.svelte",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\routes\\combined\\\u002Bpage.svelte",
+              "RelativeDocumentMoniker": "src\\routes\\combined\\\u002Bpage.svelte",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\routes\\combined\\\u002Bpage.svelte",
+              "RelativeToolTip": "src\\routes\\combined\\\u002Bpage.svelte",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T11:49:15.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u002Bpage.svelte",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\routes\\\u002Bpage.svelte",
+              "RelativeDocumentMoniker": "src\\routes\\\u002Bpage.svelte",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\routes\\\u002Bpage.svelte",
+              "RelativeToolTip": "src\\routes\\\u002Bpage.svelte",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T09:56:54.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "emit-results.mjs",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\src\\scripts\\emit-results.mjs",
+              "RelativeDocumentMoniker": "src\\scripts\\emit-results.mjs",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\src\\scripts\\emit-results.mjs",
+              "RelativeToolTip": "src\\scripts\\emit-results.mjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-15T11:51:26.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\New folder\\RWM_P0_C00287252\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\New folder\\RWM_P0_C00287252\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T09:59:51.25Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -4,8 +4,11 @@
     "\\src",
     "\\src\\lib",
     "\\src\\lib\\filters",
-    "\\src\\routes"
+    "\\src\\lib\\filters\\combined",
+    "\\src\\routes",
+    "\\src\\routes\\combined",
+    "\\src\\scripts"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\lib\\filters\\collatz.test.ts",
   "PreviewInSolutionExplorer": false
 }
