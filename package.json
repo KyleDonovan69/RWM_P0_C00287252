@@ -13,7 +13,7 @@
 		"test": "vitest"
 	},
 	"dependencies": {
-		"peer-filter-c00285423": "github:MonikaNusi/RWM_P0_C00285423#v0.1.1"
+		"peer-filter-c00285423": "github:MonikaNusi/RWM_P0_C00285423#v0.1.2"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.0",

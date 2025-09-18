@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\node_modules",
+    "\\node_modules\\peer-filter-c00285423",
     "\\src",
     "\\src\\lib",
     "\\src\\lib\\filters",
@@ -9,6 +11,6 @@
     "\\src\\routes\\combined",
     "\\src\\scripts"
   ],
-  "SelectedNode": "\\src\\lib\\filters\\collatz.test.ts",
+  "SelectedNode": "\\node_modules\\peer-filter-c00285423\\package.json",
   "PreviewInSolutionExplorer": false
 }
